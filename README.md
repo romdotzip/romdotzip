@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rm0819
 - 👀 I’m interested in game development, scripting, and java.
 - 🌱 I’m currently learning C, Java, Python
-- 💞️ I’m looking to collaborate on somthing
+- 💞️ I’m looking to collaborate on something
 - 📫 How to reach me, not sure
 
 <!---
