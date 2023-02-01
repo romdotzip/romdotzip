@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rm0819
-- 👀 I’m interested in game development, scripting, and java.
-- 🌱 I’m currently learning C, Java, Python
+- 👀 I’m interested in game and software development and scripting!
+- 🌱 I’m currently learning C, C#, and Python
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me, not sure
 
