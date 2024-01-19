@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rm0819
 - 👀 I’m interested in game and software development and scripting!
-- 🌱 I’m currently learning C, C#, and Python through my Computer Science degree focusing in Network and Cyber- Security.
+- 🌱 I’m currently learning C, C#, and Python through my Computer Science degree focusing in Network and Cybersecurity.
 - 💞️ I’m looking to collaborate on anything game or software dev related!
 
 
