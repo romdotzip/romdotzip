@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @rm0819
-- 👀 I’m interested in game and software development and scripting!
-- 🌱 I’m currently learning C, C#, and Python through my Computer Science degree focusing in Network and Cybersecurity.
-- 💞️ I’m looking to collaborate on anything game or software dev related!
-
+- 👀 I’m interested in game development and pentesting!
+- 🌱 I’m currently learning C, C#, and Python, web develoment, and security designs through my Computer Science degree focusing in Network and Cybersecurity.
+- 💞️ I’m looking to collaborate on anything game dev related!
+- :star2: I'm looking for full time employment right after I graduate, so please reach out!
+- 📫 Feel free to email me at mattbsmith03@gmail.com
 
 <!---
 - 📫 Feel free to email me at rm0819@colostate.edu.
