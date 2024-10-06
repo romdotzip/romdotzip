@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Matthew Smith
-- 👀 I’m interested in game development, pentesting, and securing networks and systems!
+- 👀 I’m interested in game development, software development, pentesting, and securing networks and systems!
 - 🌱 I’m currently learning C, C#, and Python, web develoment, and security designs through my Computer Science degree focusing in Network and Cybersecurity.
 - 💞️ I’m looking to collaborate on anything game dev related!
 - :star2: I'm looking for full time employment right after I graduate, December 2024, so please reach out!
